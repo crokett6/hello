@@ -1,5 +1,3 @@
-# 🐽 Crokett6
-
 **Practical and streamlined tools to boost your Unity workflow**
 
 Here you'll find a collection of tools I've built to help speed up your development process.  
