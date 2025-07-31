@@ -1,7 +1,3 @@
----
-title: false
----
-
 # 🐽 Crokett6
 
 **Practical and streamlined tools to boost your Unity workflow**
